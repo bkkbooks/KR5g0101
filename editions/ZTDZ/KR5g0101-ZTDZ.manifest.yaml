@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0101/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0101/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈寶鍊度五仙安靈鎭神黃繒章法
+  date: '2015-08-29 02:54:10.361027'
+  source:
+    repository: kanripo
+    path: KR5g0101
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0101_000-ZTDZ.yaml, hash: 'sha256:e37b263636134ca1bc540a6f86fcd393586c228586892be24249dba95d4a5319'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0101_000-ZTDZ.markers.yaml, hash: 'sha256:24dd0ff0d283d9344fa5644a82e8697caf804e5339a9dc28630cc4b38a0b7b6d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0101_SJB_000-320732b
+    span:
+    - body
+    - 0
+    - 954
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:630b32fdd692e6f9712a3df128353beba7eec70ae315eab1032093f1238e956d
